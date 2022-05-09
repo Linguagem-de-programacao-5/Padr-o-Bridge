@@ -1,2 +1,2 @@
-# Padr-o-Bridge
+# Padrao-Bridge
 Bridge pattern
